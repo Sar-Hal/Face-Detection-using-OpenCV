@@ -1,2 +1,2 @@
-# Face_Recognition
- A face recognition app using OpenCV
+# Face_Detection
+ A face Detection app using OpenCV
