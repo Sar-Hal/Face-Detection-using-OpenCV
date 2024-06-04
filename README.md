@@ -1,2 +1,2 @@
-# Face_Recog
+# Face_Recognition
  A face recognition app
