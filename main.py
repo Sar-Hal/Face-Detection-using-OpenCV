@@ -13,7 +13,7 @@ def detect_faces(img):
     return img
 
 cap = cv2.VideoCapture(0)
-
+#video
 while True:
     ret,frame= cap.read()
     frame = detect_faces(frame)
