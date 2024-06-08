@@ -9,7 +9,7 @@ def detect_faces(img):
     if faces is ():
         return img
     for (x,y,w,h) in faces:
-        cv2.rectangle(img,(x,y),(x+w,y+h),(57,255,20),2)
+        cv2.rectangle(img,(x,y),(x+w,y+h),(57,253,20),2)
     return img
 
 cap = cv2.VideoCapture(0)
